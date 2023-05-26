@@ -2,6 +2,7 @@
 	"info": {
 		"_postman_id": "a9b0c5c5-744c-4e40-9924-4e2a1e26aac7",
 		"name": "rapidapi.com",
+		"description": "Movie Application APIs automation.",
 		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
 	},
 	"item": [
@@ -37,7 +38,7 @@
 									}
 								}
 							],
-							"_postman_id": "521c4ab0-7ca0-46b8-9678-57e0c6bc0fa1",
+							"id": "521c4ab0-7ca0-46b8-9678-57e0c6bc0fa1",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -133,7 +134,7 @@
 									}
 								}
 							],
-							"_postman_id": "65700286-8e75-4f32-bbbb-8598dc4c398b",
+							"id": "65700286-8e75-4f32-bbbb-8598dc4c398b",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -228,7 +229,7 @@
 									}
 								}
 							],
-							"_postman_id": "e561de39-0160-4698-8e6c-b414f2331075",
+							"id": "e561de39-0160-4698-8e6c-b414f2331075",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -324,7 +325,7 @@
 									}
 								}
 							],
-							"_postman_id": "847a4d72-6117-4e3d-8143-070aed79aa81",
+							"id": "847a4d72-6117-4e3d-8143-070aed79aa81",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -419,7 +420,7 @@
 									}
 								}
 							],
-							"_postman_id": "be30a2bd-f2b9-43f2-affb-1e8eb8474194",
+							"id": "be30a2bd-f2b9-43f2-affb-1e8eb8474194",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -515,7 +516,7 @@
 									}
 								}
 							],
-							"_postman_id": "8cd8e878-256e-44c8-b69d-60e1c4e56d8d",
+							"id": "8cd8e878-256e-44c8-b69d-60e1c4e56d8d",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -1103,7 +1104,7 @@
 									}
 								}
 							],
-							"_postman_id": "8ba17f6f-c415-46fa-87a6-8da2aae0294e",
+							"id": "8ba17f6f-c415-46fa-87a6-8da2aae0294e",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -1200,7 +1201,7 @@
 									}
 								}
 							],
-							"_postman_id": "f869182a-5c2a-4538-adac-14246253aae5",
+							"id": "f869182a-5c2a-4538-adac-14246253aae5",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -1808,7 +1809,7 @@
 									}
 								}
 							],
-							"_postman_id": "ea051163-a4c1-4bc6-ba38-3c39c45fc6b3",
+							"id": "ea051163-a4c1-4bc6-ba38-3c39c45fc6b3",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -1905,7 +1906,7 @@
 									}
 								}
 							],
-							"_postman_id": "30c28f67-51e1-4cb7-baf7-79e7580b0d33",
+							"id": "30c28f67-51e1-4cb7-baf7-79e7580b0d33",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -2514,7 +2515,7 @@
 									}
 								}
 							],
-							"_postman_id": "64b9bf70-4ff7-487d-8667-86855990ad89",
+							"id": "64b9bf70-4ff7-487d-8667-86855990ad89",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -2611,7 +2612,7 @@
 									}
 								}
 							],
-							"_postman_id": "0f6082e3-5573-4adc-8ccc-77341338322b",
+							"id": "0f6082e3-5573-4adc-8ccc-77341338322b",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -3203,7 +3204,7 @@
 									}
 								}
 							],
-							"_postman_id": "a9a97494-90f8-4442-b34a-1564b4fbdc4f",
+							"id": "a9a97494-90f8-4442-b34a-1564b4fbdc4f",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -3307,7 +3308,7 @@
 									}
 								}
 							],
-							"_postman_id": "85e56abd-7c36-4c3d-9405-be2d5521f60b",
+							"id": "85e56abd-7c36-4c3d-9405-be2d5521f60b",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -3409,7 +3410,7 @@
 									}
 								}
 							],
-							"_postman_id": "23a3edd9-4a4e-4f54-97ea-5fece9b83279",
+							"id": "23a3edd9-4a4e-4f54-97ea-5fece9b83279",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -3511,7 +3512,7 @@
 									}
 								}
 							],
-							"_postman_id": "80b7415a-9405-41c9-9446-82f91df53f41",
+							"id": "80b7415a-9405-41c9-9446-82f91df53f41",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -4119,7 +4120,7 @@
 									}
 								}
 							],
-							"_postman_id": "ff0dcff4-d666-475f-a272-8254f8397737",
+							"id": "ff0dcff4-d666-475f-a272-8254f8397737",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -4219,7 +4220,7 @@
 									}
 								}
 							],
-							"_postman_id": "752c3519-4353-4bf3-b483-7bbe5a35dc6d",
+							"id": "752c3519-4353-4bf3-b483-7bbe5a35dc6d",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -4320,7 +4321,7 @@
 									}
 								}
 							],
-							"_postman_id": "2143ef39-8b61-4f18-aeaa-7eb6888564fe",
+							"id": "2143ef39-8b61-4f18-aeaa-7eb6888564fe",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -4422,7 +4423,7 @@
 									}
 								}
 							],
-							"_postman_id": "766382e0-9c21-4ad9-896b-9f2a5118e7c7",
+							"id": "766382e0-9c21-4ad9-896b-9f2a5118e7c7",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -4532,7 +4533,7 @@
 									}
 								}
 							],
-							"_postman_id": "423cfaae-3531-463a-a7d2-380a5ddcb843",
+							"id": "423cfaae-3531-463a-a7d2-380a5ddcb843",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -5147,7 +5148,7 @@
 									}
 								}
 							],
-							"_postman_id": "42abe7ab-8b33-4e3b-a2a9-3388119456c7",
+							"id": "42abe7ab-8b33-4e3b-a2a9-3388119456c7",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -5217,12 +5218,11 @@
 							"response": []
 						}
 					],
-					"_postman_id": "d20c8534-c1f6-41bf-8b89-5d94e5d39953",
-					"_postman_isSubFolder": true
+					"id": "d20c8534-c1f6-41bf-8b89-5d94e5d39953"
 				},
 				{
 					"name": "Seach Ultra",
-					"_postman_id": "43b5cd81-4fe6-4168-8046-7349eb705c3c",
+					"id": "43b5cd81-4fe6-4168-8046-7349eb705c3c",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
@@ -5328,7 +5328,7 @@
 				},
 				{
 					"name": "Search Pro",
-					"_postman_id": "46ed9251-1d92-4348-8f4a-1649fd10935c",
+					"id": "46ed9251-1d92-4348-8f4a-1649fd10935c",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
@@ -5429,7 +5429,7 @@
 					"response": []
 				}
 			],
-			"_postman_id": "7ea4e71c-fb7c-49ba-8359-03a9a802f07e"
+			"id": "7ea4e71c-fb7c-49ba-8359-03a9a802f07e"
 		},
 		{
 			"name": "Get",
@@ -5461,7 +5461,7 @@
 									}
 								}
 							],
-							"_postman_id": "72da8488-3dd6-4697-a4a9-ae2f8be26bb3",
+							"id": "72da8488-3dd6-4697-a4a9-ae2f8be26bb3",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -5529,7 +5529,7 @@
 									}
 								}
 							],
-							"_postman_id": "dfbb473f-6c60-463b-828d-cc70acc51436",
+							"id": "dfbb473f-6c60-463b-828d-cc70acc51436",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -5596,7 +5596,7 @@
 									}
 								}
 							],
-							"_postman_id": "fc6c6e45-8324-4928-bd43-62273a8391a8",
+							"id": "fc6c6e45-8324-4928-bd43-62273a8391a8",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -5664,7 +5664,7 @@
 									}
 								}
 							],
-							"_postman_id": "7b8df701-385f-4cef-9cba-3abf84a6d4b5",
+							"id": "7b8df701-385f-4cef-9cba-3abf84a6d4b5",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -5801,7 +5801,7 @@
 									}
 								}
 							],
-							"_postman_id": "952d348f-5bb7-41ba-a44b-a96576e0043c",
+							"id": "952d348f-5bb7-41ba-a44b-a96576e0043c",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -5869,7 +5869,7 @@
 									}
 								}
 							],
-							"_postman_id": "c24cd444-ec5d-4466-a130-f233fdb36137",
+							"id": "c24cd444-ec5d-4466-a130-f233fdb36137",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -5943,7 +5943,7 @@
 									}
 								}
 							],
-							"_postman_id": "0a8ce3d1-cbcb-4779-8eea-500578cf4d8b",
+							"id": "0a8ce3d1-cbcb-4779-8eea-500578cf4d8b",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -6018,7 +6018,7 @@
 									}
 								}
 							],
-							"_postman_id": "7bb3db4c-bc18-4425-a47b-537d6e557256",
+							"id": "7bb3db4c-bc18-4425-a47b-537d6e557256",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -6155,7 +6155,7 @@
 									}
 								}
 							],
-							"_postman_id": "cfc486ea-d94a-4303-a3b9-f0fa9fa6fe3f",
+							"id": "cfc486ea-d94a-4303-a3b9-f0fa9fa6fe3f",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -6293,7 +6293,7 @@
 									}
 								}
 							],
-							"_postman_id": "84facb6b-88c7-4cdb-a3b9-06e8a4f7a4ba",
+							"id": "84facb6b-88c7-4cdb-a3b9-06e8a4f7a4ba",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -6430,7 +6430,7 @@
 									}
 								}
 							],
-							"_postman_id": "ffe41f62-3335-4cba-b45f-b297c393f307",
+							"id": "ffe41f62-3335-4cba-b45f-b297c393f307",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -6472,12 +6472,11 @@
 							"response": []
 						}
 					],
-					"_postman_id": "651917a3-32f0-431b-98fd-ea5ca9d2442d",
-					"_postman_isSubFolder": true
+					"id": "651917a3-32f0-431b-98fd-ea5ca9d2442d"
 				},
 				{
 					"name": "Get Ultra",
-					"_postman_id": "51decb94-2cb6-4545-996c-8f8a24eec39f",
+					"id": "51decb94-2cb6-4545-996c-8f8a24eec39f",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
@@ -6525,7 +6524,7 @@
 					"response": []
 				}
 			],
-			"_postman_id": "28cddd6c-02c8-41dd-b49b-622a43b071fe"
+			"id": "28cddd6c-02c8-41dd-b49b-622a43b071fe"
 		},
 		{
 			"name": "Base Utilities",
@@ -6565,7 +6564,7 @@
 									}
 								}
 							],
-							"_postman_id": "6e38cf84-a1a2-44bb-bd24-4339849fe97f",
+							"id": "6e38cf84-a1a2-44bb-bd24-4339849fe97f",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -6620,7 +6619,7 @@
 									}
 								}
 							],
-							"_postman_id": "60fde941-52c8-47c0-ae4c-00531aeec756",
+							"id": "60fde941-52c8-47c0-ae4c-00531aeec756",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -6701,7 +6700,7 @@
 									}
 								}
 							],
-							"_postman_id": "64dbd7a2-2b62-485f-ac46-fe364c9bf9a1",
+							"id": "64dbd7a2-2b62-485f-ac46-fe364c9bf9a1",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -6756,7 +6755,7 @@
 									}
 								}
 							],
-							"_postman_id": "49f09223-af3d-48d2-ae60-5af71e37aaed",
+							"id": "49f09223-af3d-48d2-ae60-5af71e37aaed",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -6837,7 +6836,7 @@
 									}
 								}
 							],
-							"_postman_id": "a2a0e506-9657-4331-8d72-f61f33c36854",
+							"id": "a2a0e506-9657-4331-8d72-f61f33c36854",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -6860,8 +6859,7 @@
 							"response": []
 						}
 					],
-					"_postman_id": "8016c366-cb30-421f-a1b7-eae79780cba9",
-					"_postman_isSubFolder": true
+					"id": "8016c366-cb30-421f-a1b7-eae79780cba9"
 				},
 				{
 					"name": "Countries (FREE)",
@@ -6898,7 +6896,7 @@
 									}
 								}
 							],
-							"_postman_id": "28ef6919-94ee-4303-a139-0bea482015de",
+							"id": "28ef6919-94ee-4303-a139-0bea482015de",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -6953,7 +6951,7 @@
 									}
 								}
 							],
-							"_postman_id": "2ad873b7-5c6b-4664-a519-b4f5b824d83d",
+							"id": "2ad873b7-5c6b-4664-a519-b4f5b824d83d",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -7470,7 +7468,7 @@
 									}
 								}
 							],
-							"_postman_id": "dda8575f-caae-41d1-82b9-6549ddd98ebd",
+							"id": "dda8575f-caae-41d1-82b9-6549ddd98ebd",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -7525,7 +7523,7 @@
 									}
 								}
 							],
-							"_postman_id": "6d56410c-779f-47ac-a998-4677283e3f44",
+							"id": "6d56410c-779f-47ac-a998-4677283e3f44",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -8042,7 +8040,7 @@
 									}
 								}
 							],
-							"_postman_id": "70062e72-8324-42c5-9257-77ce6f7c3e71",
+							"id": "70062e72-8324-42c5-9257-77ce6f7c3e71",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -8065,18 +8063,17 @@
 							"response": []
 						}
 					],
-					"_postman_id": "30784ddd-4f25-4d7c-9ae8-a623d36380c9",
-					"_postman_isSubFolder": true
+					"id": "30784ddd-4f25-4d7c-9ae8-a623d36380c9"
 				}
 			],
-			"_postman_id": "0b09aa2e-7e27-41b8-bd35-81bbd2941ed8"
+			"id": "0b09aa2e-7e27-41b8-bd35-81bbd2941ed8"
 		},
 		{
 			"name": "Changes and Leaving",
 			"item": [
 				{
 					"name": "Leaving",
-					"_postman_id": "2fbdbd1c-cc92-47da-9d4b-2a47fa0503c7",
+					"id": "2fbdbd1c-cc92-47da-9d4b-2a47fa0503c7",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
@@ -8130,7 +8127,7 @@
 				},
 				{
 					"name": "Changes (Ultra)",
-					"_postman_id": "5b8a2560-70bc-4529-b2e4-ab233c855261",
+					"id": "5b8a2560-70bc-4529-b2e4-ab233c855261",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
@@ -8192,7 +8189,7 @@
 					"response": []
 				}
 			],
-			"_postman_id": "a3d5564a-67c4-4dea-be81-ef566023206c"
+			"id": "a3d5564a-67c4-4dea-be81-ef566023206c"
 		}
 	]
 }
